@@ -1,14 +1,15 @@
-# Virtual Orrery 
-#### An orrery of the solar system, 23/12/2021
+# Ray Tracing Intro
+#### An intro to the concept of lighting and shading using ray tracing, 23/12/2021
 #### By **Jeremy Kimotho**
 ## Description
-This is a virtual orrery of the solar system with the earth, sun, moon and rest of the solar system yet to come. The rotation of the earth about its axis (axial rotation) and the rotation of the planets around the sun (orbital rotation) is able to be paused and resumed.
+My introduction to lighting scenes using the concept of ray tracing. The scenes are shaded and the reflections are calculated using ray tracing concept. 
 ## Setup/Installation Requirements
-* Make sure you have all the cmake pre-reqs
-* Create a build folder wih the command cmake -H -Bbuild.
-* Enter the build folder
-* Run ./453-skeleton
-## Technologies Used
-Created using primarily C++. Information displayed to user is using imGui. 
+* cmake -H -Bbuild.
+* cd build
+* ./453-raytracing
+* easy-to-understand
+* format
+{Leave nothing to chance! You want it to be easy for potential users, employers and collaborators to run your app. Do I need to run a server? Do I need to install any dependencies? How should I set up my databases? Is there other code this app depends on?}
 ## Support and contact details
-Email me at projectsjeremy1000 (at) gmail.com for any questions/comments.
+Questions and comments to projectsjeremy1000 (at) gmail.com
+
