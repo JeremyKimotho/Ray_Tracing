@@ -7,7 +7,7 @@ This is a virtual orrery of the solar system with the earth, sun, moon and rest 
 * Make sure you have all the cmake pre-reqs
 * Create a bui..d folder wih the command cmake -H -Bbuild.
 * Enter the build folder
-* Run ./453-assignment
+* Run ./453-skeleton
 ## Technologies Used
 Created using primarily C++. Information displayed to user is using imGui. 
 ## Support and contact details
