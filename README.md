@@ -4,7 +4,7 @@
 ## Description
 My introduction to lighting scenes using the concept of ray tracing. The scenes are shaded and the reflections are calculated using ray tracing concept. 
 ## Setup/Installation Requirements
-* cmake -H -Bbuild.
+* cmake -H. -Bbuild
 * cd build
 * ./453-raytracing
 ## Support and contact details
